@@ -1,0 +1,56 @@
+{
+    "name": "@ohos/vendor_huawei_hdf",
+    "version": "",
+    "description": "HDF peripheral driver | HDF外设驱动",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "Apache V2",
+    "repository": "https://gitee.com/openharmony/vendor_huawei_hdf",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "vendor"
+    ],
+    "keywords": [
+        "vendor",
+        "huawei",
+        "hdf"
+    ],
+    "envs": [],
+    "dirs": [],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "segment": {
+        "destPath": "vendor/huawei/hdf"
+    },
+    "component": {
+        "name": "vendor_huawei_hdf",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
